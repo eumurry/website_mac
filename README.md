@@ -1,7 +1,5 @@
 ## 🚀 MAC_webPage
 
-[Netlify Link](https://macompany.netlify.app) 
-
 [Global Link](https://macmantenimiento.com) 
 
 
